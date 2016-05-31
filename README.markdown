@@ -1,7 +1,8 @@
-Scrum for Trello
+Scrum for Trello Hoy Ed
 ===========
 
-Scrum for Trello adds functionality to the awesome trello.com for use in Scrum projects.
+Scrum for Trello Hoy Ed aims to add extra functionality to the awsome scrum extension for trello by Marcel Duin.
+
 
 Trello is the perfect online equivalent of the whiteboard with sticky notes aka the Scrum
 board. One element we use are the storypoints. TrelloScrum gives you the ability to
